@@ -152,6 +152,22 @@ public static int deleteBreweries(int id) {
         
         return result;
     }
+
+    void deleteBrewery(Breweries brewery) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    BreweriesGeocode getBeweriesGeocodeByID(int id) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    void addBreweryGeocode(BreweriesGeocode breweryGeo) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    int getBreweriesById(Breweries b) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
    
     
